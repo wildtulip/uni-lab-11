@@ -30,7 +30,7 @@ function App() {
         <Route exact path='/contacts' element={<Contacts />}></Route>
       </Routes>
       <div className='footer'>
-        <h2>© 2020 Dodo Socks | Made with ♥ in Ukraine</h2>
+        <h2>Made by Dmytrii Yaremenko</h2>
       </div>
     </div>
   );
