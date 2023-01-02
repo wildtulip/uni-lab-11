@@ -21,6 +21,7 @@ const Contacts = () => {
             allowFullScreen=''
             loading='lazy'
             referrerPolicy='no-referrer-when-downgrade'
+            title='first_map'
           ></iframe>
         </div>
         <div className='map'>
@@ -31,6 +32,7 @@ const Contacts = () => {
             allowFullScreen=''
             loading='lazy'
             referrerPolicy='no-referrer-when-downgrade'
+            title='second_map'
           ></iframe>
         </div>
       </div>

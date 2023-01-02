@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import foto from '../../assets/foto1.png';
 import ProductCard from '../../elements/ProductCard/ProductCard';
 import noski1 from '../../assets/noski1.webp';
 import noski2 from '../../assets/noski2.webp';
@@ -10,8 +9,6 @@ import noski4 from '../../assets/noski4.webp';
 import './Products.css';
 
 const Products = () => {
-  const items = {};
-
   return (
     <div className='main_container'>
       <h2>Наші товари</h2>
