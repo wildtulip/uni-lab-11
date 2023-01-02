@@ -10,8 +10,6 @@ import noski4 from '../../assets/noski4.webp';
 import './Main.css';
 
 const Main = () => {
-  const items = {};
-
   return (
     <div className='main_container'>
       <h2>Український бред шкартепток та нижньої білизни </h2>
